@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Anderson Ladino",
+    "foto": "https://ichef.bbci.co.uk/news/640/cpsprodpb/547A/production/_96462612_gettyimages-659596036.jpg",
+	"email": "andersonladino17@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "0963342229",
+    "fb": "https://www.facebook.com/anderson.ladino.5?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/andy",
+    "linke": "https://www.linkedin.com/in/anderson-ladino-pinto-585b521b9/"
+  },
+  {
+    "id": 2,
+    "name": "Anthony Saritama",
+    "foto": "https://ligadeportiva.com/wp-content/uploads/2022/05/33bb508c72dd70fe/futbolistas-famosos-de-todo-el-mundo.jpeg",
+	"email": "antonySaritama@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "0987569845",
+    "fb": "https://www.facebook.com/ANFASACU?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/saritamaAnt",
+    "linke": "https://ec.linkedin.com/in/antoSari"
+  },
+  {
+    "id": 3,
+    "name": "Pepe Guaman",
+    "foto": "https://imagenesparami.com/wp-content/uploads/2019/07/FotoFutbolistaFamosoSuarez-400x225.jpg",
+	"email": "juan_fuentes@gmail.com",
+    "profesion": "Abogado",
+    "contacto": "0987638312",
+    "fb": "https://es-la.facebook.com/pepe.gua",
+    "tw": "https://twitter.com/guapepe",
+    "linke": "https://ec.linkedin.com/in/pe-gua"
+  },
+  {
+    "id": 4,
+    "name": "Juan Velasquez",
+    "foto": "https://ichef.bbci.co.uk/news/640/cpsprodpb/1614E/production/_96464409_gettyimages-694476604.jpg",
+	"email": "lonen_perez@gmail.com",
+    "profesion": "Taxista",
+    "contacto": "0934767689",
+    "fb": "https://es-la.facebook.com/juanVelas",
+    "tw": "https://twitter.com/belasquezjuan",
+    "linke": "https://ec.linkedin.com/in/juan-vela"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Moreira",
+    "foto": "https://www.encancha.mx/u/fotografias/m/2022/2/12/f608x342-43405_73128_15.jpg",
+    "email": "carlosMoreira@gmail.com",
+    "profesion": "Abogado",
+    "contacto": "0967484298",
+    "fb": "https://www.facebook.com/carlos.moreira.9212?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/carlos.moreira",
+    "linke": "https://ec.linkedin.com/in/moreira-carlos"
+  },
+  {
+    "id": 6,
+    "name": "Xavila Guaranga",
+    "foto": "https://static.americadigital.com/wp-content/uploads/2020/04/americadigital-top-5-de-los-futbolistas-con-coronavirus-afp.jpg",
+	"email": "Xavilagu@gmail.com",
+    "profesion": "Sistemas",
+    "contacto": "0967383927",
+    "fb": "https://es-la.facebook.com/Xavila.gu",
+    "tw": "https://twitter.com/Xavila1",
+    "linke": "https://ec.linkedin.com/in/Xavila-gua"
+  },
+  {
+    "id": 7,
+    "name": "Kevina Plazarte",
+    "foto": "https://gcdn.emol.cl/futbol-internacional/files/2019/09/autos-futbolistas-lujo7.jpg",
+    "email": "Kevin_Plazarte@gmail.com",
+    "profesion": "Contadora",
+    "contacto": "0912786567",
+    "fb": "https://es-la.facebook.com/Kevin_Plazarte",
+    "tw": "https://twitter.com/Kevin_Plazarte",
+    "linke": "https://ec.linkedin.com/in/Kevin-Plazarte"
+  },
+  {
+    "id": 8,
+    "name": "Pablo Escobar",
+    "foto": "https://media.revistagq.com/photos/5ca5e1da4409cc53b7907945/master/w_1200,h_806,c_limit/futbolistas_mas_caros_del_mundo_412129292.jpg",
+    "email": "xavier_sanchez@gmail.com",
+    "profesion": "Vendedor",
+    "contacto": "0984345678",
+    "fb": "https://es-la.facebook.com/Pablo_Escobar",
+    "tw": "https://twitter.com/Pablo_Escobar",
+    "linke": "https://ec.linkedin.com/in/Pablo-Escobar"
+  },
+  {
+    "id": 9,
+    "name": "Pepe Chupin",
+	"foto": "https://ligadeportiva.com/wp-content/uploads/2022/05/c5e31026c5c89485/famosos-jugadores-de-futbol-europeos.jpeg",
+    "email": "Scarleth_Johanson@gmail.com",
+    "profesion": "Modelo",
+    "contacto": "098765498",
+    "fb": "https://es-la.facebook.com/Scarleth_Johanson",
+    "tw": "https://twitter.com/Scarleth_Johanson",
+    "linke": "https://ec.linkedin.com/in/Scarleth-Johanson"
+  },
+  {
+    "id": 10,
+    "name": "Pedro Picapiedra",
+    "foto": "https://www.sportsunfold.com/wp-content/uploads/2022/06/90min17.jpg",
+	"email": "belenPinto@gmail.com",
+    "profesion": "Parbularia",
+    "contacto": "0987557371",
+    "fb": "https://es-la.facebook.com/belenPinto",
+    "tw": "https://twitter.com/belenPinto",
+    "linke": "https://ec.linkedin.com/in/belen-pinto"
+  }
+]
