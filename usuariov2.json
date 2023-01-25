@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Anderson Ladino",
+    "foto": "https://cdn.icon-icons.com/icons2/2859/PNG/512/avatar_face_man_boy_male_profile_smiley_happy_people_icon_181657.png",
+	"email": "andersonladino17@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "0963342229",
+    "fb": "https://www.facebook.com/anderson.ladino.5?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/andy",
+    "linke": "https://www.linkedin.com/in/anderson-ladino-pinto-585b521b9/"
+  },
+  {
+    "id": 2,
+    "name": "Anthony Saritama",
+    "foto": "https://w7.pngwing.com/pngs/716/753/png-transparent-computer-icons-little-cartoon-man-thumbnail.png",
+	"email": "antonySaritama@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "0987569845",
+    "fb": "https://www.facebook.com/ANFASACU?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/saritamaAnt",
+    "linke": "https://ec.linkedin.com/in/antoSari"
+  },
+  {
+    "id": 3,
+    "name": "Pepe Guaman",
+    "foto": "https://images.vexels.com/media/users/3/157837/isolated/preview/db181fb308b9a32197d9c3cadc58c4d3-avatar-de-mujer-de-pelo-de-corte-asimetrico.png",
+	"email": "juan_fuentes@gmail.com",
+    "profesion": "Abogado",
+    "contacto": "0987638312",
+    "fb": "https://es-la.facebook.com/pepe.gua",
+    "tw": "https://twitter.com/guapepe",
+    "linke": "https://ec.linkedin.com/in/pe-gua"
+  },
+  {
+    "id": 4,
+    "name": "Juan Velasquez",
+    "foto": "https://w7.pngwing.com/pngs/616/364/png-transparent-computer-icons-child-avatar-boy-women-avatar-face-hand-people-thumbnail.png",
+	"email": "lonen_perez@gmail.com",
+    "profesion": "Taxista",
+    "contacto": "0934767689",
+    "fb": "https://es-la.facebook.com/juanVelas",
+    "tw": "https://twitter.com/belasquezjuan",
+    "linke": "https://ec.linkedin.com/in/juan-vela"
+  },
+  {
+    "id": 5,
+    "name": "Carlos Moreira",
+    "foto": "https://w7.pngwing.com/pngs/782/115/png-transparent-avatar-boy-man-avatar-vol-1-icon.png",
+    "email": "carlosMoreira@gmail.com",
+    "profesion": "Abogado",
+    "contacto": "0967484298",
+    "fb": "https://www.facebook.com/carlos.moreira.9212?mibextid=ZbWKwL",
+    "tw": "https://twitter.com/carlos.moreira",
+    "linke": "https://ec.linkedin.com/in/moreira-carlos"
+  },
+  {
+    "id": 6,
+    "name": "Xavila Guaranga",
+    "foto": "https://w7.pngwing.com/pngs/93/562/png-transparent-avatar-boy-man-avatar-vol-1-icon.png",
+	"email": "Xavilagu@gmail.com",
+    "profesion": "Sistemas",
+    "contacto": "0967383927",
+    "fb": "https://es-la.facebook.com/Xavila.gu",
+    "tw": "https://twitter.com/Xavila1",
+    "linke": "https://ec.linkedin.com/in/Xavila-gua"
+  },
+  {
+    "id": 7,
+    "name": "Kevina Plazarte",
+    "foto": "https://cdn.pixabay.com/photo/2013/07/13/12/06/woman-159169_960_720.png",
+    "email": "Kevin_Plazarte@gmail.com",
+    "profesion": "Contadora",
+    "contacto": "0912786567",
+    "fb": "https://es-la.facebook.com/Kevin_Plazarte",
+    "tw": "https://twitter.com/Kevin_Plazarte",
+    "linke": "https://ec.linkedin.com/in/Kevin-Plazarte"
+  },
+  {
+    "id": 8,
+    "name": "Pablo Escobar",
+    "foto": "https://w7.pngwing.com/pngs/716/753/png-transparent-computer-icons-little-cartoon-man-thumbnail.png",
+    "email": "xavier_sanchez@gmail.com",
+    "profesion": "Vendedor",
+    "contacto": "0984345678",
+    "fb": "https://es-la.facebook.com/Pablo_Escobar",
+    "tw": "https://twitter.com/Pablo_Escobar",
+    "linke": "https://ec.linkedin.com/in/Pablo-Escobar"
+  },
+  {
+    "id": 9,
+    "name": "Scarleth Johanson",
+	"foto": "https://images.vexels.com/media/users/3/158276/isolated/preview/b227f1749e90b8c978ab2a7b40f82fed-avatar-de-mujer-de-pelo-de-nudo-superior.png",
+    "email": "Scarleth_Johanson@gmail.com",
+    "profesion": "Modelo",
+    "contacto": "098765498",
+    "fb": "https://es-la.facebook.com/Scarleth_Johanson",
+    "tw": "https://twitter.com/Scarleth_Johanson",
+    "linke": "https://ec.linkedin.com/in/Scarleth-Johanson"
+  },
+  {
+    "id": 10,
+    "name": "Belen Pinto",
+    "foto": "https://cdn.icon-icons.com/icons2/1879/PNG/512/iconfinder-4-avatar-2754580_120522.png",
+	"email": "belenPinto@gmail.com",
+    "profesion": "Parbularia",
+    "contacto": "0987557371",
+    "fb": "https://es-la.facebook.com/belenPinto",
+    "tw": "https://twitter.com/belenPinto",
+    "linke": "https://ec.linkedin.com/in/belen-pinto"
+  }
+]
