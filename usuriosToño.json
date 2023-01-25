@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Anderson Ladino",
+      "foto": "",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Computacion",
+      "contacto": "0963342229",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 2,
+      "name": "Anthony Saritama",
+      "foto": " ",
+      "address": "balcones",
+      "email": "asaritama@gmail.com",
+      "profesion": "Ing. Civil",
+      "contacto": "0963342224",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 3,
+      "name": "Juan Velasquez",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Mecatrónica",
+      "contacto": "0963342226",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": ""
+    },
+    {
+      "id": 4,
+      "name": "Carlos Moreira",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Ambiental",
+      "contacto": "0963342229",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 5,
+      "name": "Xavier Guaranga",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Computacion",
+      "contacto": "0963342227",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 6,
+      "name": "Kevin Plazarte",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Computacion",
+      "contacto": "0963342239",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 7,
+      "name": "Pablo Escobar",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Civil",
+      "contacto": "0963342129",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 8,
+      "name": "Scarleth Johanson",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Mecatrónica",
+      "contacto": "0963342429",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 9,
+      "name": "Maria Gutierrez",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Computacion",
+       "contacto": "0963342929",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    },
+    {
+      "id": 10,
+      "name": "Belen Pinto",
+      "foto": " ",
+      "address": "Quitumbe",
+      "email": "andersonladino17@gmail.com",
+      "profesion": "Ing. Ambiental",
+      "contacto": "0963342229",
+      "facebook": "https://www.facebook.com/Pepe/",
+      "twiter": "https://twitter.com/WeAreMessi",
+      "linkendin": "https://ec.linkedin.com/company/banco-pichincha-ca"
+    }
+  ]
